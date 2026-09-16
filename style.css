@@ -108,7 +108,7 @@ img {
     color: var(--primary);
     margin-bottom: 2.5rem;
 }
-/*------------- NAV bar--------------- */
+/* ------------- NAV bar--------------- */
 nav {
       background: black;
     width: 100vw;
@@ -249,7 +249,7 @@ header {
     font-size: 1.1rem;
 }
 
-/* Projects */
+/* ---------------------------Projects ----------------------------*/
 .Projects_container {
     text-align: center;
 }
@@ -281,7 +281,7 @@ header {
 .gallery a img:hover {
     transform: scale(1.4);
 }
-/* Skills Section */
+/* ---------Skills Section-------------------------- */
 .skills {
   padding: 4rem 0;
   color: #fff;
@@ -416,7 +416,7 @@ form textarea {
 
 /* ------footer------ */
 footer {
-    background:var(--black);
+    background:black;
     padding: 3rem 0 1.5rem;
     font-size: 0.9rem;
     margin-top: 5rem;
@@ -673,17 +673,10 @@ footer {
         height: auto;
     }
 
-    .typing {
-        white-space: normal;
-        width: auto;
-        animation: none;
-        display: inline;
-    }
-
     .button{
         padding: 0.3rem 1rem;
     }
-/* about  */
+/*------------------- about-------------------  */
     .about_container{
         flex-direction: column;
     }
